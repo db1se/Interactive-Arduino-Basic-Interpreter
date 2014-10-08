@@ -1,6 +1,6 @@
 //Spinelli's Basic interpreter, ported to arduino bu Usmar A Padow usmpadow@gmail.com
 //EULA you must include the name of the porter of the software on any place you use this code. please acknoladge my work :)
-*/ sample program
+/* sample program
 10 PRINT "HOW OLD ARE YOU?"
 20 INPUT A
 30 IF A>18 THEN 80
